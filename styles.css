@@ -11,7 +11,7 @@
   height: 37px;
   margin-top: 7px;
   margin-left: 176px;
-  font-family: "Roboto";
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   border-color: #e0e0e0;
   border-width: thin;
   float: left;
@@ -20,7 +20,7 @@
 .video-display {
   margin-left: 78px;
   margin-top: 22px;
-  font-family: "Roboto";
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   font-size: 18px;
   float: left; /* a very important command helps us to write in the left side instead of new line */
 }
@@ -28,7 +28,7 @@
 .views {
   margin-top: -5px;
   font-size: 14px;
-  font-family: "Roboto";
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   color: #8f8e8e;
 }
 
@@ -38,7 +38,7 @@ body {
 
 .thumbnail-heading {
   font-weight: bold;
-  font-family: "Roboto";
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   font-size: 14px;
   margin-left: 1060px;
   margin-right: 120px;
@@ -46,7 +46,7 @@ body {
 
 .views-and-date {
   color: #424242;
-  font-family: "Roboto";
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   font-size: 11px;
   margin-top: -10px;
   margin-left: 1060px;
@@ -54,7 +54,7 @@ body {
 
 .suggested-youtube-account {
   color: #828282;
-  font-family: "Roboto";
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   font-size: 12px;
   margin-top: 20px;
   margin-left: 1060px;
