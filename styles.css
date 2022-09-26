@@ -1,0 +1,79 @@
+.navigation-bar {
+  overflow: hidden; /* a very important command that moves the navigation bar to the top */
+  color: blue;
+  height: 56px;
+  margin-top: 0%;
+  background-color: white;
+}
+
+.search-settings {
+  width: 533px;
+  height: 37px;
+  margin-top: 7px;
+  margin-left: 176px;
+  font-family: "Roboto";
+  border-color: #e0e0e0;
+  border-width: thin;
+  float: left;
+}
+
+.video-display {
+  margin-left: 78px;
+  margin-top: 22px;
+  font-family: "Roboto";
+  font-size: 18px;
+  float: left; /* a very important command helps us to write in the left side instead of new line */
+}
+
+.views {
+  margin-top: -5px;
+  font-size: 14px;
+  font-family: "Roboto";
+  color: #8f8e8e;
+}
+
+body {
+  background-color: #fafafa;
+}
+
+.thumbnail-heading {
+  font-weight: bold;
+  font-family: "Roboto";
+  font-size: 14px;
+  margin-left: 1060px;
+  margin-right: 120px;
+}
+
+.views-and-date {
+  color: #424242;
+  font-family: "Roboto";
+  font-size: 11px;
+  margin-top: -10px;
+  margin-left: 1060px;
+}
+
+.suggested-youtube-account {
+  color: #828282;
+  font-family: "Roboto";
+  font-size: 12px;
+  margin-top: 20px;
+  margin-left: 1060px;
+}
+
+#suggested-video-position {
+  margin-top: 80px;
+}
+
+.suggested-video-position {
+  margin-top: 27px;
+}
+
+.detail-of-suggestion {
+  float: left;
+  margin-left: 25px;
+}
+
+.thumbnail-size {
+  width: 178px;
+  height: 100px;
+}
